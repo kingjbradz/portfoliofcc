@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(0.25turn, #e66465, #9198e5);
+    text-align: center;
+    list-style-type: none;
+    font-family: Helvetica, sans-serif;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    
+}
